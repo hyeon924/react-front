@@ -14,5 +14,5 @@ function Variable() {
         </>
     );
 }
-
+  
 export default Variable;
